@@ -9,6 +9,7 @@ const Products = () => {
       <Product productName="Charger" />
       <Product productName="Headphones" />
       <Product productName="airpodes" />
+      <Product productName="speaker" />
     </div>
   );
 };
